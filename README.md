@@ -28,7 +28,7 @@ go run client/main.go Codetoanbug
 
 ## Output:
 ```
-2021/10/03 22:00:00 Greeting: Hello Codetoanbug
+2023/02/15 8:00:00 Greeting: Hello Codetoanbug
 ```
 Hope this helps.
 
